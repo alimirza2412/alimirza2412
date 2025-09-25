@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimirza2412&label=Profile%20views&color=0e75b6&style=flat" alt="alimirza2412" /> </p>
 
-- 🔭 I’m currently working on **voice assistant and gesture control**
+- 🔭 I’m currently working on **Artificial intelligence**
 
 - 🌱 I’m currently learning **Tensorflow**
 
